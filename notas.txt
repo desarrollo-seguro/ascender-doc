@@ -1,0 +1,3 @@
+Arrancamos proyectos nuevos con
+
+mvn archetype:generate -DgroupId=es.santander.ascender -DartifactId=proyectoXX -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.5 -DinteractiveMode=false
